@@ -52,6 +52,6 @@ Start the Client
 
 ## Made By
 
-- MEET PARMAR
+- Meet Parmar,Arsh Kazi,Romil Sanghvi,Raushan Kumar
 
   
